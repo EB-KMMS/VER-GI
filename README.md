@@ -23,3 +23,16 @@ Here you can find a list of hints for each of the puzzles...
   <summary>Length</summary></details>
 </details>
 
+<details> 
+  <summary>Puzzle 4: Which organ is this? (Riddle 1) </summary>
+    So a small organ which is pear-shaped sitting beneath a larger organ and relates to the storage and release of bile...
+      <details>The word is 11 letters long.
+  <summary>Length</summary></details>
+</details>
+
+<details> 
+  <summary>Puzzle 4: Which organ is this? (Riddle 1) </summary>
+    So a small organ which is pear-shaped sitting beneath a larger organ and relates to the storage and release of bile...
+  <details>The word is 11 letters long.
+  <summary>Length</summary></details>
+</details>
