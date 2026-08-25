@@ -92,5 +92,5 @@ Here you can find a list of hints for each of the puzzles...
   <details>The image here might give a little clue as to what you're looking for: https://github.com/EB-KMMS/VER-GI/blob/main/Hint_liveratapartyAI.png
   <summary>A picture clue</summary></details>
   <details>The words are 5, 2, 4, 4 letters long. Remember you need to enter them in full caps without spaces.
-  <summary>A picture clue</summary></details>
+  <summary>Length</summary></details>
 </details>
