@@ -91,9 +91,8 @@ Here you can find a list of hints for each of the puzzles...
    The image here should help you (the white tiles are where you would find a letter e.g. the first puzzle only has four letters): https://github.com/EB-KMMS/VER-GI/blob/main/Hint_greytiles.png 
   
   <details>The image here might give a little clue as to what you're looking for: https://github.com/EB-KMMS/VER-GI/blob/main/Hint_liveratapartyAI.png
-  <summary>A picture clue</summary></details>
-  
+    <summary>A picture clue</summary>
     <details>The words are 5, 2, 4, 4 letters long. Remember you need to enter them in full caps without spaces.
-    <summary>Length</summary></details>
-  
+      <summary>Length</summary></details>
+  </details>
 </details>
